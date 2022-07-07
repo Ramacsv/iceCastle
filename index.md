@@ -29,6 +29,13 @@ _We had a good time diving. Kamala Fox didn't come with me. We came to the place
 
 ![Image oceancastle by suitecase friend](oceancastle1.jpg)
 
-This story is dedicated to my family and kamala the mewing fox
+<b>Image Photo by SuiteCase Friend</b>
+<hr style="border:5px solid blue">
 
-_Thank you for visiting my page_
+
+
+**This story is dedicated to my family and kamala the mewing fox**
+
+
+
+### _Thank You for visiting my page_
