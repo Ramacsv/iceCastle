@@ -27,7 +27,7 @@ _There were weathered glasses pieces.  It was nice to look._
 
 _We had a good time diving. Kamala Fox didn't come with me. We came to the place we were staying._
 
-![Image oceancastle by suitecase friend](oceancastle.jpg)
+![Image oceancastle by suitecase friend](oceancastle1.jpg)
 
 This story is dedicated to my family and kamala the mewing fox
 
