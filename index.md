@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to Ice Castle Story
 
-You can use the [editor on GitHub](https://github.com/Ramacsv/iceCastle/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### This is Suitecase. 
 
-### Markdown
+**Carmel Ocean Story**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_I have a  friend who took a trip to Carmel with his family.  He told me the story below. 
+There was low tide and went swimming in the ocean. I bumped into a wall._
 
-```markdown
-Syntax highlighted code block
+_So I surfaced to see what it was. It was a giant ice castle. I went back to tell my family what I saw. By the time they came to see, the ice castle had vanished._
+_Then I again went down in to the ocean and saw the ice castle. My family came with me and we went inside the ice castle. It turned out that there was a giant block of ice._
 
-# Header 1
-## Header 2
-### Header 3
+_There were ten rooms. We went into the second room. I found out there was a secret passage to the tenth room._ 
 
-- Bulleted
-- List
+_I was curious and went inside the passage. The tenth room was high on the ice castle. There were two windows._ 
 
-1. Numbered
-2. List
+_There were two water slides one into the beach and other into the ocean._ 
 
-**Bold** and _Italic_ and `Code` text
+_We went down in slide and claimed up and went on the other slide to the beach._
 
-[Link](url) and ![Image oceancastle by suitecase friend](oceancastle.jpg)
-```
+_There an other tunnel that lead to the other side of the wall and I saw coral reef._
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+_There was a telescope in one of the rooms. Through the telescope we saw dolphin swimming in the ocean._
 
-### Jekyll Themes
+_There were weathered glasses pieces.  It was nice to look._
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ramacsv/iceCastle/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_We had a good time diving. Kamala Fox didn't come with me. We came to the place we were staying._
 
-### Support or Contact
+![Image oceancastle by suitecase friend](oceancastle.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This story is dedicated to my family and kamala the mewing fox
+
+_Thank you for visiting my page_
